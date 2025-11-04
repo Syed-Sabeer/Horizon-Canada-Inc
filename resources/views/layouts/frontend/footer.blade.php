@@ -80,7 +80,7 @@
           <div class="container rr-container-1410">
             <div class="copyright-area-inner">
               <div class="copyright-text">
-                <p class="text">Copyright @ 2025 <a href="#">Horizon Canada Inc.</a> All Rights Received.</p>
+                <p class="text">Copyright © 2025 Design and Develop By <a href="https://deveondynamics.com/">Deveon Inc.</a> All Rights Reserved.</p>
               </div>
               <div class="copyright-link">
                 <a href="{{ route('contact') }}">Privacy policy</a>
